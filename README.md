@@ -1,8 +1,3 @@
-Yes. Below is a **clean, professional, crystal-clear README** for your **Employee Credential & Background Verification Platform**, keeping the same information and structure from your provided content.
-
-Copy everything below directly into your `README.md`:
-
-````markdown
 # 🔐 Employee Credential & Background Verification Platform
 
 A secure full-stack platform that combines **Web Development, Cybersecurity, MongoDB, JWT Authentication, and Blockchain** to submit, verify, and publicly validate employee credentials.
